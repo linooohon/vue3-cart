@@ -1,10 +1,14 @@
-# Vue3_ShoppingCart
+# Vue3_ShoppingCart_購物車
+
+#### 2 ways for deploy
+1. Host on Github pages with Github Action CD
+2. Local deploy with deploy.sh
+
 
 ## Project setup
 ```
 npm install
 ```
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
