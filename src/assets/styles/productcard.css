@@ -1,0 +1,15 @@
+.productcard_wrapper {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.productcard_body {
+    margin-top: 1.5rem;
+}
+
+.productcard_item {
+    margin: 0 10px;
+}
