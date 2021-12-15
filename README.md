@@ -1,4 +1,4 @@
-# basic_vue_usage_practice
+# Vue3_ShoppingCart
 
 ## Project setup
 ```
