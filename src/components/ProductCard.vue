@@ -11,7 +11,7 @@
 <script>
 export default {
   props: ['product', 'index', 'addToCart'],
-  date () {
+  data () {
     return {
       quantity: 0
     }
